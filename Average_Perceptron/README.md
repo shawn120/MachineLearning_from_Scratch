@@ -7,7 +7,7 @@
     a. numpy<br/>
     b. pandas (please use at least the version af 1.3.3, lower version may cause some error)<br/>
     c. matplotlib<br/>
-    d. popanda (you can find this file in https://github.com/shawn120/Popanda please put it in the same directory)<br/>
+    d. popanda (you can find this file in https://github.com/shawn120/Popanda_Enhance_of_Pandas please put it in the same directory)<br/>
 
 2. If you found you have trouble with updating python or those packages, you can create anaconda environment to do so. Here is a link of the instruction to set up and use anaconda environment:
    
